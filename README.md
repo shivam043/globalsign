@@ -25,5 +25,5 @@ To build the binaries
  # Note
 
 ```
-Since container packages were not allowed , so the problem statement has been approached with slices of struct although packages like heap,priority queue are available
+Since container packages were not allowed , so the problem statement has been approached with slices of struct not with  maps,heap,priority queue etc
 ```
