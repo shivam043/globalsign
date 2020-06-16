@@ -12,7 +12,7 @@ To build the binaries
   -  GOOS=windows GOARCH=amd64 go build -o top
   
   mac 
-  -  GOOS=linux GOARCH=amd64 go build -o top
+  -  GOOS=darwin GOARCH=amd64 go build -o top
 
 # Running the program
 
